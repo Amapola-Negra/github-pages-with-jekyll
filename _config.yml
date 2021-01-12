@@ -4,7 +4,7 @@ author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
  -Como decía, estoy actualizando mis conocimientos sobre programación que empecé hace muuuucho tiempo. 
- Lo siento pero de momento no estoy en las redes sociales. :(-
+-Lo siento pero de momento no estoy en las redes sociales. :(
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
